@@ -2,6 +2,10 @@
     - Le jeu de la vie est un simple programme montrant comment de simple règles peuvent 
     donner naissance à des comportements très complexes
 
+# Règle : 
+    - Si une cellule vivante est entouré de 2 ou 3 cellules elle survie, sinon elle meurt.
+    - Si une cellule vide est entouré de exactement 3 cellules, une cellule née.
+
 # Structure :
     - La structure présenté dans le programme, a fasciné John Conway, car avec seulement 5 blocs,
     cette structure évolue jusqu'a 1103 génération d'une manière incroyable.
